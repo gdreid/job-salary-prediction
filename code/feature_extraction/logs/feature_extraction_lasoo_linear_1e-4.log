@@ -1,0 +1,55 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/coordinate_descent.py:466: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations
+  ConvergenceWarning)
+/usr/lib/pymodules/python2.7/matplotlib/backend_bases.py:2407: MatplotlibDeprecationWarning: Using default event loop until function specific to this GUI is implemented
+  warnings.warn(str, mplDeprecation)
+data_test_valid shape: (48954, 228501)
+data_train shape: (195814, 228501)
+data_valid shape: (24477, 228501)
+data_test shape: (24477, 228501)
+fitting model
+alpha:  0.0001
+it:  1 average error:  8467.32147912  alpha:  0.0001  non zero:  5357
+it:  2 average error:  7778.28186378  alpha:  0.0001  non zero:  4542
+it:  3 average error:  7551.23161055  alpha:  0.0001  non zero:  4226
+it:  4 average error:  7469.5904544  alpha:  0.0001  non zero:  4020
+it:  5 average error:  7426.78463046  alpha:  0.0001  non zero:  3873
+it:  6 average error:  7395.81409335  alpha:  0.0001  non zero:  3766
+it:  7 average error:  7372.08705508  alpha:  0.0001  non zero:  3679
+it:  8 average error:  7352.00141564  alpha:  0.0001  non zero:  3619
+it:  9 average error:  7335.2705312  alpha:  0.0001  non zero:  3552
+it:  10 average error:  7322.77085611  alpha:  0.0001  non zero:  3510
+it:  11 average error:  7314.02650046  alpha:  0.0001  non zero:  3483
+it:  12 average error:  7307.19090341  alpha:  0.0001  non zero:  3437
+it:  13 average error:  7302.63581794  alpha:  0.0001  non zero:  3435
+it:  14 average error:  7299.79354618  alpha:  0.0001  non zero:  3426
+it:  15 average error:  7298.52407952  alpha:  0.0001  non zero:  3429
+it:  16 average error:  7298.88491886  alpha:  0.0001  non zero:  3423
+it:  17 average error:  7299.55978366  alpha:  0.0001  non zero:  3423
+it:  18 average error:  7300.13486633  alpha:  0.0001  non zero:  3403
+it:  19 average error:  7300.40252518  alpha:  0.0001  non zero:  3389
+it:  20 average error:  7300.14216242  alpha:  0.0001  non zero:  3380
+it:  21 average error:  7299.42958562  alpha:  0.0001  non zero:  3373
+it:  22 average error:  7298.68918169  alpha:  0.0001  non zero:  3359
+it:  23 average error:  7298.10893057  alpha:  0.0001  non zero:  3362
+it:  24 average error:  7297.48327906  alpha:  0.0001  non zero:  3343
+it:  25 average error:  7296.33272332  alpha:  0.0001  non zero:  3327
+it:  26 average error:  7294.99631847  alpha:  0.0001  non zero:  3324
+it:  27 average error:  7293.90283911  alpha:  0.0001  non zero:  3326
+it:  28 average error:  7292.87148536  alpha:  0.0001  non zero:  3323
+it:  29 average error:  7291.75468155  alpha:  0.0001  non zero:  3332
+it:  30 average error:  7290.51271553  alpha:  0.0001  non zero:  3335
+it:  31 average error:  7289.22800189  alpha:  0.0001  non zero:  3330
+it:  32 average error:  7288.12095349  alpha:  0.0001  non zero:  3337
+it:  33 average error:  7287.05133439  alpha:  0.0001  non zero:  3325
+it:  34 average error:  7286.02517733  alpha:  0.0001  non zero:  3325
+it:  35 average error:  7285.09263204  alpha:  0.0001  non zero:  3327
+it:  36 average error:  7284.29424735  alpha:  0.0001  non zero:  3313
+it:  37 average error:  7283.65480975  alpha:  0.0001  non zero:  3319
+it:  38 average error:  7283.31532197  alpha:  0.0001  non zero:  3315
+it:  39 average error:  7283.10882792  alpha:  0.0001  non zero:  3307
+it:  40 average error:  7283.15497389  alpha:  0.0001  non zero:  3297
+it:  41 average error:  7283.44824833  alpha:  0.0001  non zero:  3285
+it:  42 average error:  7283.72131059  alpha:  0.0001  non zero:  3284
+it:  43 average error:  7284.06898256  alpha:  0.0001  non zero:  3285
+it:  44 average error:  7284.44247478  alpha:  0.0001  non zero:  3286
+it:  45 average error:  7284.86186992  alpha:  0.0001  non zero:  3281

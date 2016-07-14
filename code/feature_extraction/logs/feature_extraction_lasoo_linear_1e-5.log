@@ -1,0 +1,151 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/coordinate_descent.py:466: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations
+  ConvergenceWarning)
+/usr/lib/pymodules/python2.7/matplotlib/backend_bases.py:2407: MatplotlibDeprecationWarning: Using default event loop until function specific to this GUI is implemented
+  warnings.warn(str, mplDeprecation)
+data_test_valid shape: (48954, 228501)
+data_train shape: (195814, 228501)
+data_valid shape: (24477, 228501)
+data_test shape: (24477, 228501)
+fitting model
+alpha:  1e-05
+predicting
+fitting
+it:  1 average error:  7858.37843012  alpha:  1e-05  non zero:  61198
+predicting
+fitting
+it:  2 average error:  7110.46855845  alpha:  1e-05  non zero:  50463
+predicting
+fitting
+it:  3 average error:  6832.50659441  alpha:  1e-05  non zero:  45184
+predicting
+fitting
+it:  4 average error:  6690.29849196  alpha:  1e-05  non zero:  42033
+predicting
+fitting
+it:  5 average error:  6598.71147283  alpha:  1e-05  non zero:  40191
+predicting
+fitting
+it:  6 average error:  6535.39472425  alpha:  1e-05  non zero:  38926
+predicting
+fitting
+it:  7 average error:  6495.29572147  alpha:  1e-05  non zero:  38151
+predicting
+fitting
+it:  8 average error:  6466.43333167  alpha:  1e-05  non zero:  37404
+predicting
+fitting
+it:  9 average error:  6446.55525052  alpha:  1e-05  non zero:  36920
+predicting
+fitting
+it:  10 average error:  6433.19554938  alpha:  1e-05  non zero:  36396
+predicting
+fitting
+it:  11 average error:  6422.12483868  alpha:  1e-05  non zero:  36097
+predicting
+fitting
+it:  12 average error:  6413.76719316  alpha:  1e-05  non zero:  35761
+predicting
+fitting
+it:  13 average error:  6408.35828444  alpha:  1e-05  non zero:  35452
+predicting
+fitting
+it:  14 average error:  6403.99686771  alpha:  1e-05  non zero:  35290
+predicting
+fitting
+it:  15 average error:  6400.57479754  alpha:  1e-05  non zero:  35156
+predicting
+fitting
+it:  16 average error:  6397.4589142  alpha:  1e-05  non zero:  34978
+predicting
+fitting
+it:  17 average error:  6394.0723231  alpha:  1e-05  non zero:  34865
+predicting
+fitting
+it:  18 average error:  6390.90706487  alpha:  1e-05  non zero:  34801
+predicting
+fitting
+it:  19 average error:  6388.10960218  alpha:  1e-05  non zero:  34712
+predicting
+fitting
+it:  20 average error:  6385.60401827  alpha:  1e-05  non zero:  34584
+predicting
+fitting
+it:  21 average error:  6383.12128023  alpha:  1e-05  non zero:  34482
+predicting
+fitting
+it:  22 average error:  6380.7364188  alpha:  1e-05  non zero:  34352
+predicting
+fitting
+it:  23 average error:  6378.50345132  alpha:  1e-05  non zero:  34269
+predicting
+fitting
+it:  24 average error:  6376.36465665  alpha:  1e-05  non zero:  34255
+predicting
+fitting
+it:  25 average error:  6374.84541458  alpha:  1e-05  non zero:  34180
+predicting
+fitting
+it:  26 average error:  6373.59268221  alpha:  1e-05  non zero:  34138
+predicting
+fitting
+it:  27 average error:  6372.61433075  alpha:  1e-05  non zero:  34109
+predicting
+fitting
+it:  28 average error:  6371.60617573  alpha:  1e-05  non zero:  34094
+predicting
+fitting
+it:  29 average error:  6370.43654795  alpha:  1e-05  non zero:  34064
+predicting
+fitting
+it:  30 average error:  6369.10890733  alpha:  1e-05  non zero:  34017
+predicting
+fitting
+it:  31 average error:  6367.72306458  alpha:  1e-05  non zero:  33962
+predicting
+fitting
+it:  32 average error:  6366.21500826  alpha:  1e-05  non zero:  33903
+predicting
+fitting
+it:  33 average error:  6364.87123221  alpha:  1e-05  non zero:  33851
+predicting
+fitting
+it:  34 average error:  6363.56710682  alpha:  1e-05  non zero:  33825
+predicting
+fitting
+it:  35 average error:  6362.19577279  alpha:  1e-05  non zero:  33797
+predicting
+fitting
+it:  36 average error:  6360.81433757  alpha:  1e-05  non zero:  33777
+predicting
+fitting
+it:  37 average error:  6359.47119277  alpha:  1e-05  non zero:  33744
+predicting
+fitting
+it:  38 average error:  6358.2017303  alpha:  1e-05  non zero:  33698
+predicting
+fitting
+it:  39 average error:  6357.00466049  alpha:  1e-05  non zero:  33676
+predicting
+fitting
+it:  40 average error:  6355.78194753  alpha:  1e-05  non zero:  33661
+predicting
+fitting
+it:  41 average error:  6354.39262647  alpha:  1e-05  non zero:  33651
+predicting
+fitting
+it:  42 average error:  6353.08276993  alpha:  1e-05  non zero:  33626
+predicting
+fitting
+it:  43 average error:  6351.9017162  alpha:  1e-05  non zero:  33611
+predicting
+fitting
+it:  44 average error:  6350.76252259  alpha:  1e-05  non zero:  33593
+predicting
+fitting
+it:  45 average error:  6349.67328916  alpha:  1e-05  non zero:  33577
+predicting
+fitting
+it:  46 average error:  6348.74090195  alpha:  1e-05  non zero:  33578
+predicting
+fitting
+it:  47 average error:  6347.94008347  alpha:  1e-05  non zero:  33557

@@ -1,0 +1,41 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/coordinate_descent.py:466: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations
+  ConvergenceWarning)
+/usr/lib/pymodules/python2.7/matplotlib/backend_bases.py:2407: MatplotlibDeprecationWarning: Using default event loop until function specific to this GUI is implemented
+  warnings.warn(str, mplDeprecation)
+data_test_valid shape: (48954, 228501)
+data_train shape: (195814, 228501)
+data_valid shape: (24477, 228501)
+data_test shape: (24477, 228501)
+fitting model
+alpha:  0.0005
+it:  average error:  8582.06074809  alpha:  0.0005  non zero:  1428
+it:  average error:  7989.77295529  alpha:  0.0005  non zero:  1253
+it:  average error:  7868.12506735  alpha:  0.0005  non zero:  1176
+it:  average error:  7809.24546698  alpha:  0.0005  non zero:  1112
+it:  average error:  7773.31599273  alpha:  0.0005  non zero:  1065
+it:  average error:  7757.87606601  alpha:  0.0005  non zero:  1045
+it:  average error:  7745.26187023  alpha:  0.0005  non zero:  1007
+it:  average error:  7735.42821557  alpha:  0.0005  non zero:  1000
+it:  average error:  7726.28538579  alpha:  0.0005  non zero:  1001
+it:  average error:  7719.69952326  alpha:  0.0005  non zero:  989
+it:  average error:  7713.244294  alpha:  0.0005  non zero:  984
+it:  average error:  7707.2840284  alpha:  0.0005  non zero:  978
+it:  average error:  7701.30470155  alpha:  0.0005  non zero:  972
+it:  average error:  7695.64765137  alpha:  0.0005  non zero:  976
+it:  average error:  7690.42137943  alpha:  0.0005  non zero:  970
+it:  average error:  7685.293651  alpha:  0.0005  non zero:  966
+it:  average error:  7680.42228292  alpha:  0.0005  non zero:  976
+it:  average error:  7675.52682504  alpha:  0.0005  non zero:  977
+it:  average error:  7672.35587859  alpha:  0.0005  non zero:  984
+it:  average error:  7670.68668947  alpha:  0.0005  non zero:  971
+it:  average error:  7670.07284234  alpha:  0.0005  non zero:  970
+it:  average error:  7670.23534062  alpha:  0.0005  non zero:  964
+it:  average error:  7671.13295897  alpha:  0.0005  non zero:  956
+it:  average error:  7672.47847988  alpha:  0.0005  non zero:  954
+it:  average error:  7673.91725847  alpha:  0.0005  non zero:  956
+it:  average error:  7675.30144933  alpha:  0.0005  non zero:  957
+it:  average error:  7676.7110439  alpha:  0.0005  non zero:  952
+it:  average error:  7677.80652764  alpha:  0.0005  non zero:  951
+it:  average error:  7678.56105127  alpha:  0.0005  non zero:  954
+it:  average error:  7679.02454452  alpha:  0.0005  non zero:  955
+it:  average error:  7679.24142663  alpha:  0.0005  non zero:  956

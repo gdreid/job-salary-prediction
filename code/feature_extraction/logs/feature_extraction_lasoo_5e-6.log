@@ -1,0 +1,68 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/coordinate_descent.py:466: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations
+  ConvergenceWarning)
+/usr/lib/pymodules/python2.7/matplotlib/backend_bases.py:2407: MatplotlibDeprecationWarning: Using default event loop until function specific to this GUI is implemented
+  warnings.warn(str, mplDeprecation)
+data_test_valid shape: (48954, 228501)
+data_train shape: (195814, 228501)
+data_valid shape: (24477, 228501)
+data_test shape: (24477, 228501)
+fitting model
+alpha:  5e-06
+it:  average error:  7697.08448263  alpha:  5e-06  non zero:  126046
+it:  average error:  6886.58202698  alpha:  5e-06  non zero:  112424
+it:  average error:  6583.16334484  alpha:  5e-06  non zero:  101314
+it:  average error:  6408.75982857  alpha:  5e-06  non zero:  94116
+it:  average error:  6297.5171256  alpha:  5e-06  non zero:  89155
+it:  average error:  6218.34000159  alpha:  5e-06  non zero:  85546
+it:  average error:  6165.9063683  alpha:  5e-06  non zero:  82814
+it:  average error:  6128.02395368  alpha:  5e-06  non zero:  80783
+it:  average error:  6096.40276066  alpha:  5e-06  non zero:  79120
+it:  average error:  6069.49894483  alpha:  5e-06  non zero:  77730
+it:  average error:  6045.74686037  alpha:  5e-06  non zero:  76618
+it:  average error:  6025.92807516  alpha:  5e-06  non zero:  75630
+it:  average error:  6011.02851402  alpha:  5e-06  non zero:  74782
+it:  average error:  5999.28356637  alpha:  5e-06  non zero:  74049
+it:  average error:  5991.03006659  alpha:  5e-06  non zero:  73398
+it:  average error:  5983.65316584  alpha:  5e-06  non zero:  72859
+it:  average error:  5977.64960516  alpha:  5e-06  non zero:  72413
+it:  average error:  5972.93916208  alpha:  5e-06  non zero:  71967
+it:  average error:  5968.60127808  alpha:  5e-06  non zero:  71562
+it:  average error:  5965.19347408  alpha:  5e-06  non zero:  71215
+it:  average error:  5962.78775019  alpha:  5e-06  non zero:  70967
+it:  average error:  5960.68847847  alpha:  5e-06  non zero:  70746
+it:  average error:  5958.42795964  alpha:  5e-06  non zero:  70511
+it:  average error:  5956.2463683  alpha:  5e-06  non zero:  70342
+it:  average error:  5954.10109557  alpha:  5e-06  non zero:  70141
+it:  average error:  5952.08253521  alpha:  5e-06  non zero:  69990
+it:  average error:  5950.18871656  alpha:  5e-06  non zero:  69800
+it:  average error:  5948.43311976  alpha:  5e-06  non zero:  69641
+it:  average error:  5946.92855126  alpha:  5e-06  non zero:  69440
+it:  average error:  5945.90433351  alpha:  5e-06  non zero:  69286
+it:  average error:  5944.62346889  alpha:  5e-06  non zero:  69109
+it:  average error:  5943.24193452  alpha:  5e-06  non zero:  68985
+it:  average error:  5942.04911035  alpha:  5e-06  non zero:  68873
+it:  average error:  5941.01314652  alpha:  5e-06  non zero:  68741
+it:  average error:  5940.16757627  alpha:  5e-06  non zero:  68652
+it:  average error:  5939.57425778  alpha:  5e-06  non zero:  68590
+it:  average error:  5938.95578268  alpha:  5e-06  non zero:  68498
+it:  average error:  5938.17778026  alpha:  5e-06  non zero:  68414
+it:  average error:  5937.46719948  alpha:  5e-06  non zero:  68334
+it:  average error:  5937.00324591  alpha:  5e-06  non zero:  68255
+it:  average error:  5936.48894192  alpha:  5e-06  non zero:  68183
+it:  average error:  5935.95304874  alpha:  5e-06  non zero:  68101
+it:  average error:  5935.40696706  alpha:  5e-06  non zero:  68092
+it:  average error:  5934.78492937  alpha:  5e-06  non zero:  68034
+it:  average error:  5934.20977692  alpha:  5e-06  non zero:  67937
+it:  average error:  5933.81960712  alpha:  5e-06  non zero:  67883
+it:  average error:  5933.31220888  alpha:  5e-06  non zero:  67783
+it:  average error:  5932.83186547  alpha:  5e-06  non zero:  67764
+it:  average error:  5932.39573264  alpha:  5e-06  non zero:  67691
+it:  average error:  5932.07281857  alpha:  5e-06  non zero:  67616
+it:  average error:  5931.66396431  alpha:  5e-06  non zero:  67565
+it:  average error:  5931.17510067  alpha:  5e-06  non zero:  67532
+it:  average error:  5930.69605039  alpha:  5e-06  non zero:  67504
+it:  average error:  5930.25000655  alpha:  5e-06  non zero:  67489
+it:  average error:  5929.76765338  alpha:  5e-06  non zero:  67504
+it:  average error:  5929.3234709  alpha:  5e-06  non zero:  67486
+it:  average error:  5928.88957048  alpha:  5e-06  non zero:  67484
+it:  average error:  5928.57731158  alpha:  5e-06  non zero:  67430
